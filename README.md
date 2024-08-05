@@ -19,6 +19,8 @@ En este sitio web meto mis fotografía tomadas por el mundo.
 ### Instalación ###
 
 1. Clonar el repositorio:
-
+    https://github.com/PatricioAugustoTurri/ProyectoFinalReact-PatricioTurri
 2. npm install
 3. npm run dev
+
+## Demo: ##
