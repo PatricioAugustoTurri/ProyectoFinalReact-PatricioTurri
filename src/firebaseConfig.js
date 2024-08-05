@@ -10,3 +10,11 @@ const firebaseConfig = {
 };
 
 export const app = initializeApp(firebaseConfig);
+
+export default {
+  build: {
+    rollupOptions: {
+      external: ['firebase/firestore']
+    }
+  }
+}

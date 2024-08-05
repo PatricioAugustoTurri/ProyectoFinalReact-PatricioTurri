@@ -10,7 +10,6 @@ const producto = {
 }
         if (si === true){
         addDoc(coleccionDeProductos , producto);
-        console.log("producto agregado")
         }
 }
 
