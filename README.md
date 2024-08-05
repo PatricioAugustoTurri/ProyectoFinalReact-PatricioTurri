@@ -18,11 +18,11 @@ En este sitio web meto mis fotografía tomadas por el mundo.
 
 ### Instalación ###
 
-1. Clonar el repositorio:
-    https://github.com/PatricioAugustoTurri/ProyectoFinalReact-PatricioTurri
+1. Clonar el repositorio: [Hace clic aquí](https://github.com/PatricioAugustoTurri/ProyectoFinalReact-PatricioTurri)
 2. npm install
 3. npm run dev
 
 ## Demo: ##
 
-https://proyecto-final-react-patricio-turri-jfr9.vercel.app/
+Podes ver el demo de mi sitio web [aquí](https://proyecto-final-react-patricio-turri-jfr9.vercel.app/)
+
