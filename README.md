@@ -1,8 +1,10 @@
-# React + Vite
+# Mi proyecto personal - Patricio Turri #
+## Negocio de venta de fotografías ##
+En este sitio web meto mis fotografía tomadas por el mundo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías: ##
+* react : 18.2.0
+* lucide-react: 0.394.0
+* sass: 1.77.3
+* tailwind: 3.4.3
+* vite: 5.2.0
