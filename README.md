@@ -8,3 +8,17 @@ En este sitio web meto mis fotografía tomadas por el mundo.
 * sass: 1.77.3
 * tailwind: 3.4.3
 * vite: 5.2.0
+
+## Instalación: ##
+
+### Requisitos ###
+
+* node: 18.18.2
+* npm: 9.8.1
+
+### Instalación ###
+
+1. Clonar el repositorio:
+
+2. npm install
+3. npm run dev
